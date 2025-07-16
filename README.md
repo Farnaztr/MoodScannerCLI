@@ -4,8 +4,9 @@
 # MoodScannerCLI  
 *A simple and powerful command-line sentiment analysis tool using free public API*
 
-[![Built With](https://img.shields.io/badge/built%20with-Python-green.svg)](https://www.python.org/)
-[![API](https://img.shields.io/badge/API-text-processing.com-yellow.svg)](https://text-processing.com/docs/sentiment.html)
+[![Platform](https://img.shields.io/badge/platform-Python-blue?style=for-the-badge&logo=python&logoColor=white)](#usage)
+[![Built With](https://img.shields.io/badge/built%20with-Python-green?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![API](https://img.shields.io/badge/API-text--processing.com-yellow?style=for-the-badge&logo=apiary&logoColor=black)](https://text-processing.com/docs/sentiment.html)
 
 </div>
 
@@ -34,8 +35,6 @@ API responds with sentiment label and probabilities → Results are shown clearl
 ---
 
 ## Usage
-
-1. **Install dependencies**  
 
 Make sure Python 3 is installed, then install `requests` library:
 
