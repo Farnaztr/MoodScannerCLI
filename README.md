@@ -4,7 +4,7 @@
 # MoodScannerCLI  
 *A simple and powerful command-line sentiment analysis tool using free public API*
 
-[![GitHub](https://img.shields.io/badge/GitHub-farnaz--tarabi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farnaz-tarabi)
+[![GitHub](https://img.shields.io/badge/GitHub-farnaz--tarabi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farnaztr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farnaz--tarabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farnaz-tarabi)
 [![Instagram](https://img.shields.io/badge/Instagram-@farnaz__tarabi-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/farnaz__tarabi)
 
@@ -42,7 +42,7 @@ Make sure Python 3 is installed, then install `requests` library:
 ```bash
 pip install requests
 ```
-## Run the program
+***Run the program***
 
 ```python Text_Analysis.py
 Enter your sentence: I love coding in Python!
