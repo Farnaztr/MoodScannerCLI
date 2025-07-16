@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/96/sentiment-analysis.png" width="80" />
 
 # MoodScannerCLI  
 *A simple and powerful command-line sentiment analysis tool using free public API*
 
-[![Platform](https://img.shields.io/badge/platform-Python-blue.svg)](#usage)
 [![Built With](https://img.shields.io/badge/built%20with-Python-green.svg)](https://www.python.org/)
 [![API](https://img.shields.io/badge/API-text-processing.com-yellow.svg)](https://text-processing.com/docs/sentiment.html)
 
