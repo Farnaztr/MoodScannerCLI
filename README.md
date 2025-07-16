@@ -48,3 +48,13 @@ Make sure Python 3 is installed, then install `requests` library:
 
 ```bash
 pip install requests
+```
+## Run the program
+
+```python Text_Analysis.py
+Enter your sentence: I love coding in Python!
+Label: Pos  
+Positive: 85.34%  
+Negative: 5.12%  
+Neutral: 9.54%
+```
