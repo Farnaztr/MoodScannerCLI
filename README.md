@@ -25,13 +25,6 @@ Perfect for:
 
 ---
 
-## Demo
-
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/000000/sentiment.png" width="150" alt="MoodScannerCLI Demo">
-</p>
-
----
 
 ## How It Works
 
