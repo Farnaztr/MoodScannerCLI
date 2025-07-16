@@ -5,8 +5,6 @@
 *A simple and powerful command-line sentiment analysis tool using free public API*
 
 [![GitHub](https://img.shields.io/badge/GitHub-farnaz--tarabi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farnaztr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-farnaz--tarabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farnaz-tarabi)
-[![Instagram](https://img.shields.io/badge/Instagram-@farnaz__tarabi-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/farnaz__tarabi)
 
 
 </div>
