@@ -4,9 +4,10 @@
 # MoodScannerCLI  
 *A simple and powerful command-line sentiment analysis tool using free public API*
 
-[![Platform](https://img.shields.io/badge/platform-Python-blue?style=for-the-badge&logo=python&logoColor=white)](#usage)
-[![Built With](https://img.shields.io/badge/built%20with-Python-green?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![API](https://img.shields.io/badge/API-text--processing.com-yellow?style=for-the-badge&logo=apiary&logoColor=black)](https://text-processing.com/docs/sentiment.html)
+[![GitHub](https://img.shields.io/badge/GitHub-farnaz--tarabi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farnaz-tarabi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-farnaz--tarabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farnaz-tarabi)
+[![Instagram](https://img.shields.io/badge/Instagram-@farnaz__tarabi-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/farnaz__tarabi)
+
 
 </div>
 
