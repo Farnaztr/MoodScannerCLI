@@ -18,10 +18,10 @@ By sending your sentences to a free public sentiment analysis API, it returns wh
 
 Perfect for:  
 
-- ✍️ Writers and bloggers for sentiment checking  
-- 📊 Quick sentiment insights in terminal  
-- 🤖 Chatbots and personal assistants  
-- 🧠 Emotional data collection and research  
+-  Writers and bloggers for sentiment checking  
+-  Quick sentiment insights in terminal  
+-  Chatbots and personal assistants  
+-  Emotional data collection and research  
 
 ---
 
