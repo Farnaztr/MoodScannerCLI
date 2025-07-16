@@ -28,8 +28,9 @@ Perfect for:
 
 ## How It Works
 
-User inputs a sentence → MoodScannerCLI sends the text to the [text-processing.com](https://text-processing.com) API →  
-API responds with sentiment label and probabilities → Results are shown clearly in the console.
+User inputs a sentence → MoodScannerCLI sends a POST request to text-processing.com API with the sentence →  
+API returns a JSON response with sentiment label and probability scores →  
+The app parses the response and clearly displays the sentiment label along with positive, negative, and neutral percentages in the console.
 
 ---
 
