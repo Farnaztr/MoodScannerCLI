@@ -41,7 +41,7 @@ Make sure Python 3 is installed, then install `requests` library:
 ```bash
 pip install requests
 ```
-***Run the program***
+***-Run the program***
 
 ```python Text_Analysis.py
 Enter your sentence: I love coding in Python!
